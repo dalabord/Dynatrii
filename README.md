@@ -10,6 +10,7 @@ Using Dynatrii
 Drag'n'drop the extension to the Yii project extensions folder
 
 1. Add that code to your view :
+
 		<?php
 		// DDB : paramétre de test 
 		$datatree = array(
@@ -33,11 +34,13 @@ Drag'n'drop the extension to the Yii project extensions folder
 	
 		<div id="dyna-target" style="background-color: #CCCCCC"><i>target div</i></div>
 2. Add that code to the accessRules of a concerned controller :
+
 		array('allow', // allow all users to perform 'dynatree' action
 				'actions'=>array('Dynatrii'),
 				'users'=>array('*'),
 		),
 3. Add that function to the concerned controller :
+
 		// Action accessed by AJAX request (Dynatree node or create/move/delete button) 
 		// Param : CRUD action
 		public function actionDynatrii()
