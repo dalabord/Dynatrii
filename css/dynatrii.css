@@ -1,0 +1,50 @@
+@CHARSET "UTF-8";
+
+.bg_create_img {    /* div contenant l'image en arri�re plan */ 
+	width : 20px; 
+	height: 20px; 
+	background: url(tbCreate.gif) top left no-repeat; 
+	float: left;
+	margin-top: 4px;
+	margin-left: 4px;
+}
+
+.bg_move_img {    /* div contenant l'image en arri�re plan */ 
+	width : 20px; 
+	height: 20px; 
+	background: url(tbMove.gif) top left no-repeat; 
+	float: left;
+	margin-top: 4px;
+	margin-left: 4px;
+}
+
+.bg_delete_img {    /* div contenant l'image en arri�re plan */ 
+	width : 20px; 
+	height: 20px; 
+	background: url(tbDelete.gif) top left no-repeat; 
+	float: left;
+	margin-top: 4px;
+	margin-left: 4px;
+}
+
+.click_field {    /* la zone de lien */ 
+	float: left; 
+	width : 20px; 
+	height: 20px; 
+	cursor:  pointer; 
+}
+
+.dynatrii-container {
+	display: block;
+	overflow: auto;
+	padding: 10px;
+}
+
+.dynatrii-buttons {
+	display: block;
+}
+
+.dynatrii-separation {
+	clear: both;
+}
+}
