@@ -2,7 +2,7 @@ Dynatrii
 ========
 Implentation of Dynatree as a Yii widget with CRUD.
 
-* Web site: http://idnesoftcomputing.com
+* Web site: http://idnesoftcomputing.com/wordpress/
 * Tutorial: http://idnesoftcomputing.com/wordpress/?p=302
 
 Using Dynatrii
