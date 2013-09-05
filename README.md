@@ -1,6 +1,6 @@
 Dynatrii
 ========
-Implentation of Dynatree as a Yii widget with CRUD by the IDNE team (Soft Computing, France).
+Implentation of Dynatree as a Yii widget with CRUD by the IDNE team (<a href="http://www.softcomputing.com/">Soft Computing</a>, France).
 
 * Web site: http://idnesoftcomputing.com/wordpress/
 * Tutorial (french) : http://idnesoftcomputing.com/wordpress/?p=302
